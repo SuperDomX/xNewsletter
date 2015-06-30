@@ -1,6 +1,6 @@
 <?php
 /**
- * @name NewsLetter
+ * @name Newsletter
  * @desc Send a Newsletter with site content
  * @version v0.1.09.30.06.23
  * @author cdpollard@gmail.com
