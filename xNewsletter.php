@@ -10,12 +10,13 @@
  * @see cronos
  * @link newsletter
  * @todo
+ * @beta
  */
 
 	class xNewsletter extends Xengine{
-		function autoRun(){
-
-		}
+		// function autoRun(){
+    //
+		// }
 		function installSql(){
 			// Check for table.
 			$table = $this->q()->Q('show tables like "Newsletters"');
