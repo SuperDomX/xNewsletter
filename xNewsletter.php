@@ -7,7 +7,7 @@
  * @price $40
  * @icon News.png
  * @mini bullhorn
- * @see cronos
+ * @see copy 
  * @link newsletter
  * @todo
  * @beta
